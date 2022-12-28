@@ -8,7 +8,9 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 1. Scan the QR and copy it
     <br>
 <a href='https://hermit.adithyan.ml/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+# Deploy to railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/bkCujU?referralCode=jDrDVZ)
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
